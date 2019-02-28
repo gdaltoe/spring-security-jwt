@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fde653e2-8de2-4833-9f19-e9b3a3689683" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/gd/example/springsecurity/sharedauth/preauth/JwtTokenAuthFilter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/gd/example/springsecurity/sharedauth/preauth/JwtTokenAuthFilter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/gd/example/springsecurity/sharedauth/preauth/PreAuthSecurityConfig.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/gd/example/springsecurity/sharedauth/preauth/PreAuthSecurityConfig.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="fde653e2-8de2-4833-9f19-e9b3a3689683" name="Default Changelist" comment="initial commit" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +15,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/gd/example/springsecurity/sharedauth/preauth/PreAuthSecurityConfig.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="-123">
               <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
             </state>
           </provider>
@@ -209,7 +204,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551346487824" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551346494844" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -267,7 +262,7 @@
       <workItem from="1551304528166" duration="4843000" />
       <workItem from="1551310387449" duration="1546000" />
       <workItem from="1551340673425" duration="1516000" />
-      <workItem from="1551343471413" duration="250000" />
+      <workItem from="1551343471413" duration="444000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1551311606754</created>
@@ -280,7 +275,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37763000" />
+    <option name="totallyTimeSpent" value="37957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -293,7 +288,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -687,7 +681,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/gd/example/springsecurity/sharedauth/preauth/PreAuthSecurityConfig.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
+        <state relative-caret-position="-123">
           <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
         </state>
       </provider>
